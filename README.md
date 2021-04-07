@@ -1,1 +1,1 @@
-# welcome
+<a href="https://the-it-crew.github.io/welcome/"><img src="./res/tic.png"></a>
